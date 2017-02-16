@@ -56,15 +56,23 @@ Do any countries not follow the order of preference Jews, Muslims, Gypsies?
 ## Results
 ![CDF](/cdf.png)
 
--plot of cdf for all groups-
+Figure 1.
 
 This plot shows the cumulative distribution for each of the three variables (measuring how much the respondent wants to allow immigrants who are Jews, Muslims, or Gypsies) among all the respondents.
+
+![CDF](/fulljew.png)
+![CDF](/fullmus.png)
+![CDF](/fullgyp.png)
 
 -plot of all the countries-
 
 This plot shows the breakdown by country of the mean values for each of the three variables.
 
 Each country is on the x axis. The y axis shows the difference between the mean response and 2.5, the middle "neutral" value. Positive values indicate less willingness to accept immigrants from that group into the country and negative values indicate more willingness to accept those immigrants.
+
+![CDF](/shortjew.png)
+![CDF](/shortmus.png)
+![CDF](/shortgyp.png)
 
 -plot of top 5 countries-
 
