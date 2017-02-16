@@ -1,82 +1,56 @@
-#### Motivating question(s)
 
-How we chose this data set (broadly: ESS; narrowly: specific survey questions)
 
-What we hope to get out of it
+# How do Europeans feel about Jewish, Muslim, and Gypsy immigration?
+Celina Bekins and Apurva Raman
 
-How does the willingness to accept particular immigrant groups into a country vary across different European countries?
-
-Jews
-
-Muslims
-
-Gypsies
-
-Which countries’ respondents have a strong affinity for or aversion to a particular immigrant group? Which countries’ respondents have a strong affinity for or aversion to immigration in general?
-
-#### Methodology
-What methods we chose to use and why
-
-Chose to use histograms, bar graph to represent mean
-Mean as a summary statistic
-
-No outliers (values from 1-4), so the measure does not need to be robust to outliers
-
-Representative sample, so do not need to sample further from minority groups
-
-#### Results
-Plot of the top 5 and bottom 5 overall unwillingness to accept immigrants (means)
-
-Represent 2.5 as 0 to show distance from neutrality
-
-#### Interpretation
-Identify countries with specific affinity/aversion to a particular group
-
-## Abstract
-
-## ~Title goes here~
-How do Europeans feel about Jewish, Muslim, and Gypsy immigration?
+We wanted to understand how Europeans felt about immigration, so we used data from the [European Social Survey](http://www.europeansocialsurvey.org/) to explore this space. Upon looking at the data, we found the questions about particular immigrant groups compelling and wanted to find out how the responses varied by country per group. We were also interested in knowing which group was preferred overall.
 
 ## Interpretation/analysis
 
 As of 2014, the group that is least preferred for immigration among Europeans is Gypsies. This is consistently true throughout all European nations. Generally, the most preferred group of these three is Jews.
 
-Do countries with a strong preference against immigration from one group tend to have a strong preference against immigration over all three groups?
+We can see in Figure 1 that the countries with high mean values for one group tend to have high mean values for all groups. This indicates that countries with a strong preference against immigration from one group tend to have a strong preference against immigration over all three groups.
 
-(yes?)
+However, as we can see in Figure 1, the countries with the low mean values for a particular group tend to have low mean values for the other groups with the exception of Israel, which has an expectedly strong preference for immigration of Jews.
 
-Do countries with a strong preference for immigration from one group tend to have a strong preference for immigration over all three groups?
-
-(not necessarily, especially not when there is a preference for Jewish immigration. Nobody particularly likes Gypsy/Muslim immigrants? AND EVERYONE HATES GYPSIES)
-
-Do any countries not follow the order of preference Jews, Muslims, Gypsies?
+From Figure 2, it is clear by comparing  that even among the countries with the highest and lowest preference for immigration, respondents tend to prefer Jewish immigration the most, Muslim immigration second, and Gypsy immigration third.
 
 (I don't think so?)
 
 ## Results
 ![CDF](/cdf.png)
 
-Figure 1.
+Figure 1. This plot shows the cumulative distribution for each of the three variables (measuring how much the respondent wants to allow immigrants who are Jews, Muslims, or Gypsies) among all the respondents.
 
-This plot shows the cumulative distribution for each of the three variables (measuring how much the respondent wants to allow immigrants who are Jews, Muslims, or Gypsies) among all the respondents.
+Jewish Immigrants
 
-![CDF](/fulljew.png)
-![CDF](/fullmus.png)
-![CDF](/fullgyp.png)
+![Full Jew](/fulljew.png)
 
--plot of all the countries-
+Muslim Immigrants
 
-This plot shows the breakdown by country of the mean values for each of the three variables.
+![Full Mus](/fullmus.png)
+
+Gypsy Immigrants
+
+![Full Gyp](/fullgyp.png)
+
+Figure 2. This plot shows the breakdown by country of the mean values for each of the three variables.
 
 Each country is on the x axis. The y axis shows the difference between the mean response and 2.5, the middle "neutral" value. Positive values indicate less willingness to accept immigrants from that group into the country and negative values indicate more willingness to accept those immigrants.
 
-![CDF](/shortjew.png)
-![CDF](/shortmus.png)
-![CDF](/shortgyp.png)
+Jewish Immigrants
 
--plot of top 5 countries-
+![Short Jew](/shortjew.png)
 
-This figure has the same format as the figure above, but shows only the countries with the 5 lowest and 5 highest mean values for the means of all three variables.
+Muslim Immigrants
+
+![Short Mus](/shortmus.png)
+
+Gypsy Immigrants
+
+![Short Gyp](/shortgyp.png)
+
+Figure 3. This figure has the same format as the figure above, but shows only the countries with the 5 lowest and 5 highest mean values for the means of all three variables.
 
 ## Methodology
 
