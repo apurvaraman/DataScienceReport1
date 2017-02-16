@@ -39,7 +39,7 @@ How do Europeans feel about Jewish, Muslim, and Gypsy immigration?
 
 ## Interpretation/analysis
 
-As of 2014, the group that is least preferred for immigration among Europeans is Gypsies. This is consistently true all European nations. Generally, the most preferred group of these three are Jews.
+As of 2014, the group that is least preferred for immigration among Europeans is Gypsies. This is consistently true throughout all European nations. Generally, the most preferred group of these three is Jews.
 
 Do countries with a strong preference against immigration from one group tend to have a strong preference against immigration over all three groups?
 
@@ -47,7 +47,7 @@ Do countries with a strong preference against immigration from one group tend to
 
 Do countries with a strong preference for immigration from one group tend to have a strong preference for immigration over all three groups?
 
-(not necessarily, especially not when there is a preference for Jewish immigration. Nobody particularly likes Gypsy/Muslim immigrants?)
+(not necessarily, especially not when there is a preference for Jewish immigration. Nobody particularly likes Gypsy/Muslim immigrants? AND EVERYONE HATES GYPSIES)
 
 Do any countries not follow the order of preference Jews, Muslims, Gypsies?
 
